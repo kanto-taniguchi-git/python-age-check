@@ -1,1 +1,1 @@
-python3 age_check.py
+python age_check.py
