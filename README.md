@@ -32,7 +32,9 @@ Python Age Checkは、ユーザーの生年月日を入力すると、100歳ま�
 
 ### インストール
 
-```bash
+```powershell
+pip install -U openpyxl
+          or
 python3 -m pip install openpyxl
 ```
 
